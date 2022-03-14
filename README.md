@@ -1,16 +1,20 @@
-### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Extra-MunDane&show_icons=true&theme=github_dark" />
+</a>
 
-<!--
-**Extra-Mundane/Extra-MunDane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------------------------------------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Extra-MunDane/Redline-Products">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Extra-MunDane&repo=Redline-Products&theme=github_dark" />
+</a>
+
+
+----------------------------------------------------------------
+**I am a Product Manager with a background in LUA development.**
+
+**I love to explore and experiment with new technologies.**
+
+**I'm a full-stack developer who specializes in web development and the Lua programming language.**
+
+**If you need to get something done, I'm your guy.**
