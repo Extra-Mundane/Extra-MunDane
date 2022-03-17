@@ -2,19 +2,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Extra-MunDane&show_icons=true&theme=github_dark" />
 </a>
 
-----------------------------------------------------------------------------------------------------------------------------------------
-
-
-<a href="https://github.com/Extra-MunDane/Redline-Products">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Extra-MunDane&repo=Redline-Products&theme=github_dark" />
-</a>
-
-
 ----------------------------------------------------------------
-**I am a Product Manager with a background in LUA development.**
 
-**I love to explore and experiment with new technologies.**
+[🌐] **LUA** Developer *(because lua is very simple..)*
 
-**I'm a full-stack developer who specializes in web development and the Lua programming language.**
+[🕙] **16** *(hehe)*
 
-**If you need to get something done, I'm your guy.**
+[🥱] **Lazy hobo** *(don't expect much..)*
